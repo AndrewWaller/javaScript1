@@ -1,11 +1,1 @@
-var message;
-message = "What do I want to get out of this class?";
-console.log(message);
-message = "In short... a job, but also:";
-console.log(message);
-message = "A good understanding of Vanilla Javascript and scripting languages in general,";
-console.log(message);
-message = "So I can apply that knowledge to keep on learning computer programming.";
-console.log(message);
-message = "I hope to soon get a job in the tech industry and later on complete college to receive an A.S. degree in Computer Information Technologies";
-console.log(message);
+
